@@ -1,6 +1,7 @@
 def main():
     #escribe tu código abajo de esta línea
-    pass
+    print("hola")
+    
 
 
 if __name__ == '__main__':
